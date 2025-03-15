@@ -1,0 +1,359 @@
+[
+  {
+    "departmentName": "Department-1",
+    "doctors": [
+      {
+        "name": "Doctor 1",
+        "image": "3.jpg",
+        "designation": "Designation",
+        "slots": [
+          {
+            "date": "04 March 2025",
+            "slot": {
+              "9:00 AM": {
+                "patientInfo": {
+                  "name": "Nani",
+                  "email": "nani@gmail.com",
+                  "mobile": "07702926377",
+                  "treatment": "lings",
+                  "message": "hh"
+                }
+              },
+              "9:30 AM": {
+                "patientInfo": {
+                  "name": "Nani",
+                  "email": "nani@gmail.com",
+                  "mobile": "8328609577",
+                  "treatment": "Lungs",
+                  "message": "hh"
+                }
+              },
+              "10:00 AM": {
+                "patientInfo": {}
+              },
+              "10:30 AM": {
+                "patientInfo": {}
+              },
+              "11:30 AM": {
+                "patientInfo": {}
+              },
+              "12:00 PM": {
+                "patientInfo": {}
+              },
+              "12:30 PM": {
+                "patientInfo": {
+                  "name": "Nani",
+                  "email": "nani@gmail.com",
+                  "mobile": "8328609577",
+                  "treatment": "Lungs",
+                  "message": "hh"
+                }
+              },
+              "2:00 PM": {
+                "patientInfo": {}
+              },
+              "2:30 PM": {
+                "patientInfo": {}
+              },
+              "3:00 PM": {
+                "patientInfo": {}
+              },
+              "3:30 PM": {
+                "patientInfo": {}
+              },
+              "4:00 PM": {
+                "patientInfo": {}
+              },
+              "4:30 PM": {
+                "patientInfo": {}
+              },
+              "5:00 PM": {
+                "patientInfo": {}
+              },
+              "5:30 PM": {
+                "patientInfo": {
+                  "name": "Nani",
+                  "email": "nani@gmail.com",
+                  "mobile": "8328609577",
+                  "treatment": "Lungs",
+                  "message": "hh"
+                }
+              }
+            },
+            "others": {
+              "other-patients": [
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "lings",
+                    "message": "hh"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Narayana",
+                    "email": "avulanarayana.2016@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Health Check up",
+                    "message": "I need details about health check up"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Narayana",
+                    "email": "avulanarayana.2016@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Health Check up",
+                    "message": "I need details about health check up"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Lungs",
+                    "message": "hh"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Lungs",
+                    "message": "hh"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Lungs",
+                    "message": "jj"
+                  }
+                },
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8787987898",
+                    "treatment": "Lungs",
+                    "message": "kk"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "date": "05 March 2025",
+            "slot": {
+              "9:00 AM": {
+                "patientInfo": {}
+              },
+              "9:30 AM": {
+                "patientInfo": {}
+              },
+              "10:00 AM": {
+                "patientInfo": {}
+              },
+              "10:30 AM": {
+                "patientInfo": {}
+              },
+              "11:30 AM": {
+                "patientInfo": {}
+              },
+              "12:00 PM": {
+                "patientInfo": {}
+              },
+              "12:30 PM": {
+                "patientInfo": {}
+              },
+              "2:00 PM": {
+                "patientInfo": {}
+              },
+              "2:30 PM": {
+                "patientInfo": {}
+              },
+              "3:00 PM": {
+                "patientInfo": {}
+              },
+              "3:30 PM": {
+                "patientInfo": {}
+              },
+              "4:00 PM": {
+                "patientInfo": {}
+              },
+              "4:30 PM": {
+                "patientInfo": {}
+              },
+              "5:00 PM": {
+                "patientInfo": {}
+              },
+              "5:30 PM": {
+                "patientInfo": {}
+              }
+            },
+            "others": {
+              "other-patients": [
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "lings",
+                    "message": "hh"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Doctor 2",
+        "image": "4.jpg",
+        "designation": "Specialist",
+        "slots": [
+          {
+            "date": "04 March 2025",
+            "slot": {
+              "9:00 AM": {
+                "patientInfo": {}
+              },
+              "9:30 AM": {
+                "patientInfo": {}
+              },
+              "10:00 AM": {
+                "patientInfo": {
+                  "name": "lakshmana",
+                  "email": "lak@evpe.in",
+                  "mobile": "8787987898",
+                  "treatment": "lungs",
+                  "message": "hh"
+                }
+              },
+              "10:30 AM": {
+                "patientInfo": {}
+              },
+              "11:30 AM": {
+                "patientInfo": {
+                  "name": "narayana",
+                  "email": "nani@gmail.com",
+                  "mobile": "07702926377",
+                  "treatment": "cancer",
+                  "message": "treatment for cancer"
+                }
+              },
+              "12:00 PM": {
+                "patientInfo": {
+                  "name": "Nani",
+                  "email": "nani@gmail.com",
+                  "mobile": "8328609577",
+                  "treatment": "Lungs",
+                  "message": "hh"
+                }
+              },
+              "12:30 PM": {
+                "patientInfo": {}
+              },
+              "2:00 PM": {
+                "patientInfo": {}
+              },
+              "2:30 PM": {
+                "patientInfo": {}
+              },
+              "3:00 PM": {
+                "patientInfo": {}
+              },
+              "3:30 PM": {
+                "patientInfo": {}
+              },
+              "4:00 PM": {
+                "patientInfo": {}
+              },
+              "4:30 PM": {
+                "patientInfo": {}
+              },
+              "5:00 PM": {
+                "patientInfo": {}
+              },
+              "5:30 PM": {
+                "patientInfo": {}
+              }
+            },
+            "others": {
+              "other-patients": []
+            }
+          },
+          {
+            "date": "05 March 2025",
+            "slot": {
+              "9:00": {
+                "patientInfo": {}
+              },
+              "9:30 AM": {
+                "patientInfo": {}
+              },
+              "10:00 AM": {
+                "patientInfo": {}
+              },
+              "10:30 AM": {
+                "patientInfo": {}
+              },
+              "11:30 AM": {
+                "patientInfo": {}
+              },
+              "12:00 PM": {
+                "patientInfo": {}
+              },
+              "12:30 PM": {
+                "patientInfo": {}
+              },
+              "2:00 PM": {
+                "patientInfo": {}
+              },
+              "2:30 PM": {
+                "patientInfo": {}
+              },
+              "3:00 PM": {
+                "patientInfo": {}
+              },
+              "3:30 PM": {
+                "patientInfo": {}
+              },
+              "4:00 PM": {
+                "patientInfo": {}
+              },
+              "4:30 PM": {
+                "patientInfo": {}
+              },
+              "5:00 PM": {
+                "patientInfo": {}
+              },
+              "5:30 PM": {
+                "patientInfo": {}
+              }
+            },
+            "others": {
+              "other-patients": [
+                {
+                  "patientInfo": {
+                    "name": "Nani",
+                    "email": "nani@gmail.com",
+                    "mobile": "8328609577",
+                    "treatment": "Lungs",
+                    "message": "jj"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
